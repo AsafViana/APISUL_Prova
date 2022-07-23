@@ -1,0 +1,11 @@
+C:\Users\asaff\source\Android xamarin\Apisul prova\Apisul prova\bin\Debug\Apisul prova.exe.config
+C:\Users\asaff\source\Android xamarin\Apisul prova\Apisul prova\bin\Debug\Apisul prova.exe
+C:\Users\asaff\source\Android xamarin\Apisul prova\Apisul prova\bin\Debug\Apisul prova.pdb
+C:\Users\asaff\source\Android xamarin\Apisul prova\Apisul prova\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asaff\source\Android xamarin\Apisul prova\Apisul prova\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asaff\source\Android xamarin\Apisul prova\Apisul prova\obj\Debug\Apisul prova.csproj.AssemblyReference.cache
+C:\Users\asaff\source\Android xamarin\Apisul prova\Apisul prova\obj\Debug\Apisul prova.csproj.SuggestedBindingRedirects.cache
+C:\Users\asaff\source\Android xamarin\Apisul prova\Apisul prova\obj\Debug\Apisul prova.csproj.CoreCompileInputs.cache
+C:\Users\asaff\source\Android xamarin\Apisul prova\Apisul prova\obj\Debug\Apisul prova.csproj.CopyComplete
+C:\Users\asaff\source\Android xamarin\Apisul prova\Apisul prova\obj\Debug\Apisul prova.exe
+C:\Users\asaff\source\Android xamarin\Apisul prova\Apisul prova\obj\Debug\Apisul prova.pdb
